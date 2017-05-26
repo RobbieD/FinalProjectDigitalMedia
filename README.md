@@ -1,6 +1,1 @@
-finalfinalprojectproject
-========================
-
-for digimedia
-
-this is a server and clientr for viewing models in 3d
+Simple Client-Server for viewing 3D objects using Javascript
